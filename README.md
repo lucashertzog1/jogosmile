@@ -1,3 +1,2 @@
-# jogo smile
-
-Repositório do jogo de encontrar onde está o smile
+# Smile_Game
+Repositório do jogo Aonde está o Smile?
